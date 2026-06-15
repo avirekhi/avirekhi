@@ -12,15 +12,13 @@ Full-Stack Developer | B.Tech AIML Student | Building Scalable Web Applications
 
 ## 👩‍💻 About Me
 
-🎓 Second-Year B.Tech Student specializing in Artificial Intelligence & Machine Learning
+🎓 Final-Year B.Tech Student specializing in Artificial Intelligence & Machine Learning
 
 💻 Full-Stack Developer passionate about building modern, scalable web applications
 
 🚀 Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, Clerk, Convex, and TypeScript
 
 🌱 Currently learning Data Structures & Algorithms, System Design, and Advanced Full-Stack Development
-
-🤝 Open to internships, collaborations, and open-source contributions
 
 📫 Reach me at: kauravideep2@gmail.com
 
