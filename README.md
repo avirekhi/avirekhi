@@ -99,23 +99,7 @@ Full-Stack Developer | B.Tech AIML Student | Building Scalable Web Applications
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=avirekhi&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avirekhi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avirekhi&theme=tokyonight"/>
-</p>
 
 ---
 
