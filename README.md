@@ -16,9 +16,11 @@ Full-Stack Developer | B.Tech AIML Student | Building Scalable Web Applications
 
 💻 Full-Stack Developer passionate about building modern, scalable web applications
 
-🚀 Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, Clerk, Convex, and TypeScript
+👨‍💻 Actively learning and building projects in the MERN Stack(MongoDB, Express.js, React, and Node.js)
 
-🌱 Currently learning Data Structures & Algorithms, System Design, and Advanced Full-Stack Development
+🚀 Actively preparing for SDE / Software Intern roles and open to impactful collaborations.
+
+🌱 Constantly exploring scalable system design, clean code, and modern web technologies
 
 📫 Reach me at: kauravideep2@gmail.com
 
